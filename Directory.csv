@@ -1,0 +1,20 @@
+﻿IDX,filename,buildingname,buildingid,pvrating,start,ending,namesstr
+post,post_whole_building_kw_15min.csv,post,,92,01/07/2021,30/06/2022,POST
+miller,millerhall_kw_15min.csv,miller,,17,23/01/2022,22/01/2023,Miller Hall
+liliu,queenliliuokalani_kw_15min.csv,liliu,,184,23/01/2022,22/01/2023,Queen Liliuokalani Center
+dean,deanhall_kw_15min.csv,dean,,183,23/01/2022,22/01/2023,Dean Hall
+gateway,gatewayhouse_kw_15min.csv,gateway,,29,27/02/2022,26/02/2023,Gateway House
+johnA,johnsonhalla_kw_15min.csv,johnA,,53,23/01/2022,22/01/2023,Johnson Hall A
+johnB,johnsonhallb_kw_15min.csv,johnB,,59,23/01/2022,22/01/2023,Johnson Hall B
+canc,uh_cancer_ctr_freezer_kw_15min.csv,canc,,15,23/01/2022,22/01/2023,Cancer Freezer Center
+art,art_kw_15min.csv,art,,537,01/07/2021,30/06/2022,Art Building
+cmore,cmore_kw_15min.csv,cmore,,70,23/01/2022,22/01/2023,C. Moore Hall
+hig,hig_kw_15min.csv,hig,,268,01/07/2022,30/06/2023,HIG
+music,music_complex_kw_15min_withoutMeterName.csv,music,,106,,,Music Building
+parking,pv_lower_campus_parking_structure_phaseII_15min.csv,parking,,973.33,,,Parking Structure
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
